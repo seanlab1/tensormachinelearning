@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcode.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/qrcode.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/qrcode.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/qrcode.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/qrcode.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/qrcode.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/qrcode.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/qrcode.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/qrcode.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcode.main.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcode.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qrcode.test.iml" filepath="$PROJECT_DIR$/.idea/modules/qrcode.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tensormachinelearning.iml" filepath="$PROJECT_DIR$/.idea/modules/tensormachinelearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tensormachinelearning.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tensormachinelearning.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tensormachinelearning.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tensormachinelearning.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tensormachinelearning.test.iml" />
     </modules>
   </component>
 </project>

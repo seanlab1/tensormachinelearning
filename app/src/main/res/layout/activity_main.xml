@@ -9,7 +9,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:padding="18dp"
-    tools:context="com.seanlab.qrcode.mlkit.activities.MainActivity">
+    tools:context="com.seanlab.machinelearning.mlkit.activities.MainActivity">
 
     <!--<android.support.v7.widget.RecyclerView-->
         <!--android:layout_width="match_parent"-->

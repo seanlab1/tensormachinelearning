@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.seanlab.qrcode.mlkit">
+    package="com.seanlab.machinelearning.mlkit">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -71,7 +71,7 @@
             android:finishOnTaskLaunch="true">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.seanlab.qrcode.mlkit.activities.DailyViewActivity" />
+                android:value="com.seanlab.machinelearning.mlkit.activities.DailyViewActivity" />
         </activity>
 
         <activity android:name=".tensorflow.FileSelection"

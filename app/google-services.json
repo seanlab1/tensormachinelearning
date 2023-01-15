@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:812189255171:android:a7a198e16b80fb39f17036",
         "android_client_info": {
-          "package_name": "com.seanlab.qrcode.mlkit"
+          "package_name": "com.seanlab.machinelearning.mlkit"
         }
       },
       "oauth_client": [
